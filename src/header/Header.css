@@ -1,0 +1,11 @@
+.Header {
+    font-family: 'Times';
+    border: 3px solid rgba(167, 241, 89, 0.43);
+    padding: 10px;
+    margin: 5px;
+}
+
+.Header {
+    background-color: rgba(43, 72, 10, 0.43);
+    grid-area: h;
+}

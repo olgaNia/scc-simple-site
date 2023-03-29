@@ -1,0 +1,15 @@
+.Body {
+    border: 3px solid rgba(81, 16, 52, 0.14);
+    padding: 10px;
+    margin: 5px;
+}
+
+.Body {
+    background-color: rgba(187, 31, 118, 0.14);
+    grid-area: b;
+}
+
+.section {
+    padding: 10px;
+    margin: 5px;
+}

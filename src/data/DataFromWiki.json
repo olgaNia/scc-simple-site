@@ -1,0 +1,19 @@
+[
+  { "id": 1,
+    "title": "React",
+    "body": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6]",
+    "href":"https://en.wikipedia.org/wiki/React_"
+  },
+  {
+    "id": 2,
+    "title": "Redux",
+    "body": "Works of literature using the word in the title include John Dryden's Astraea Redux (1662), \"a poem on the happy restoration and return of His Sacred Majesty\"; Anthony Trollope's Phineas Redux (1873), the sequel to Phineas Finn (1867); and John Updike's Rabbit Redux (1971), the second in his sequence of novels about the character Rabbit Angstrom.",
+    "href":"https://en.wikipedia.org/wiki/Redux_"
+  },
+  {
+    "id": 3,
+    "title": "CSS",
+    "body": " Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]",
+    "href":"https://en.wikipedia.org/wiki/CSS"
+  }
+]
